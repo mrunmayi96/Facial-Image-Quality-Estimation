@@ -1,0 +1,104 @@
+{
+  "classifications": {
+    "/data/ClientImages2/B01.png": [
+      [
+        "Good", 
+        99.06
+      ], 
+      [
+        "Bad", 
+        0.94
+      ]
+    ], 
+    "/data/ClientImages2/B02.png": [
+      [
+        "Bad", 
+        95.97
+      ], 
+      [
+        "Good", 
+        4.03
+      ]
+    ], 
+    "/data/ClientImages2/B03.png": [
+      [
+        "Bad", 
+        90.16
+      ], 
+      [
+        "Good", 
+        9.84
+      ]
+    ], 
+    "/data/ClientImages2/B04.png": [
+      [
+        "Bad", 
+        96.99
+      ], 
+      [
+        "Good", 
+        3.01
+      ]
+    ], 
+    "/data/ClientImages2/B05.png": [
+      [
+        "Bad", 
+        95.27
+      ], 
+      [
+        "Good", 
+        4.73
+      ]
+    ], 
+    "/data/ClientImages2/B06.png": [
+      [
+        "Good", 
+        99.93
+      ], 
+      [
+        "Bad", 
+        0.07
+      ]
+    ], 
+    "/data/ClientImages2/B07.png": [
+      [
+        "Bad", 
+        61.37
+      ], 
+      [
+        "Good", 
+        38.63
+      ]
+    ], 
+    "/data/ClientImages2/B08.png": [
+      [
+        "Bad", 
+        98.09
+      ], 
+      [
+        "Good", 
+        1.91
+      ]
+    ], 
+    "/data/ClientImages2/B09.png": [
+      [
+        "Bad", 
+        68.94
+      ], 
+      [
+        "Good", 
+        31.06
+      ]
+    ], 
+    "/data/ClientImages2/B10.png": [
+      [
+        "Bad", 
+        59.84
+      ], 
+      [
+        "Good", 
+        40.16
+      ]
+    ]
+  }
+}
