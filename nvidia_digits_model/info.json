@@ -1,0 +1,20 @@
+{
+    "creation time": "2018-05-03 09:40:00.067703",
+    "dataset_id": "20180503-093546-0aaa",
+    "framework": "tensorflow",
+    "id": "20180503-094000-45e6",
+    "image dimensions": [
+        224,
+        224,
+        1
+    ],
+    "image resize mode": "squash",
+    "job id": "20180503-094000-45e6",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "model file": "network.py",
+    "name": "alexnet_adam",
+    "snapshot file": "snapshot_10.ckpt",
+    "status": "Aborted",
+    "username": "aditya"
+}
