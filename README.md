@@ -21,3 +21,4 @@ curl localhost:5678/models/images/classification/classify_many.json -XPOST -F jo
 Refer to the following paper describing the work in this project - 
 https://ieeexplore.ieee.org/document/8529475
 
+<br>
